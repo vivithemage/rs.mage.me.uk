@@ -1,7 +1,8 @@
-### [Blog](http://blog.vixre.co.uk)
-### [Projects](https://github.com/vivithemage)
-### I can be reached at: rs -at- mage.me.uk
-### Saving the best for last - my cat in some [cat grass](https://en.wikipedia.org/wiki/Dactylis_glomerata)
+[Code](https://github.com/vivithemage) | [Blog](http://blog.vixre.co.uk) 
+
+Email: rs [at] mage [dot] me [dot] uk
+
+Saving the best for last - my cat in some [cat grass](https://en.wikipedia.org/wiki/Dactylis_glomerata)
 
 ![Rosie the cat](/rosie.jpg)
 
