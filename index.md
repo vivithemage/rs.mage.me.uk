@@ -1,4 +1,3 @@
-# Reza Snowdon
 | [Github](https://github.com/vivithemage) | [Gitlab](https://gitlab.com/vivithemage) | [Blog](http://blog.vixre.co.uk) |
 
 Email: rs [at] mage [dot] me [dot] uk
