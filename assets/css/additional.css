@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.markdown-body table {
+    width: unset;
+    margin: auto;
+    display: unset;
+    margin-bottom: 20px;
+}
+
