@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 15vmin;
+  pointer-events: none;
+  border-radius:20px;
+}
+
+.App-header {
+  background-color: #a2d2ff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: ffafcc;
+  
+}
+
+.App-header h1,
+.App-header p {
+  margin-bottom: 0px;
+}
+
+.App-link {
+  color: #000000;
+  margin-left:10px;
+}
+
+.Email-link {
+  color: #000000;
+  font-weight: bold;
+}
