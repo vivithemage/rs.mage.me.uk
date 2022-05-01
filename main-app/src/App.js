@@ -30,7 +30,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >github</a> accounts. </p>
-        <p>I've also started cycling rather than driving to work! &#128690;. </p>
+        <p>I've also started cycling to work and generally for fun &#128525; &#128690;. </p>
         <p>
           <a
             className="Email-link"
