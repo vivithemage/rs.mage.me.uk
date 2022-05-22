@@ -10,7 +10,7 @@ function App() {
         <p>
           Hello there, welcome to my personal site 😄
         </p>
-        <p>I live and work in Darlington, England. In my spare time I work on various projects and experiments.</p>
+        <p>In my spare time I work on various projects and experiments.</p>
         <p>Details can be found on my
           <a
             className="App-link"
@@ -29,8 +29,7 @@ function App() {
             href="https://github.com/vivithemage"
             target="_blank"
             rel="noopener noreferrer"
-          >Github</a> accounts. </p>
-        <p>I've also started cycling to work and generally for fun &#128525; &#128690;.</p>
+          >Github</a> accounts. </p>        
         <p>
           <a
             className="Email-link"
