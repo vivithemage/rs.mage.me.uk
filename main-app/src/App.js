@@ -33,7 +33,7 @@ function App() {
         <p>
           <a
             className="Email-link"
-            href="mailto:ribqhev9t@mozmail.com"
+            href="mailto:axqlnebme@mozmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >Get in Touch</a>                    
